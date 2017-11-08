@@ -1,0 +1,1 @@
+I provide an Item of Hacker News data.

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cmiles74 6/27/2017 16:12",
+	"super" : "TestCase",
+	"category" : "HackerNews",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"storyLoader"
+	],
+	"name" : "HNStoryLoaderTest",
+	"type" : "normal"
+}

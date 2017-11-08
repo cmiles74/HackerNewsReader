@@ -1,0 +1,1 @@
+I model article from Hacker News. This includes stories, comments, etc.

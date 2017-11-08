@@ -1,0 +1,1 @@
+I provide the base class for all of the Hacker News story loaders.

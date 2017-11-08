@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cmiles74 7/5/2017 11:42",
+	"super" : "TestCase",
+	"category" : "HackerNews",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"item"
+	],
+	"name" : "HNItemTest",
+	"type" : "normal"
+}

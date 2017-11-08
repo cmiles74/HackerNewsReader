@@ -1,0 +1,1 @@
+I represent a Hacker News reader. I may be used to fetch a list of new stories from the Hacker News website.

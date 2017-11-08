@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmiles74 6/18/2017 11:44",
+	"super" : "HNArticle",
+	"category" : "HackerNews",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HNStory",
+	"type" : "normal"
+}
