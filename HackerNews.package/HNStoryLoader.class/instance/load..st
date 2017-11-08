@@ -6,5 +6,5 @@ load: url
 		systemPolicy;
 		url: url;
 		accept: ZnMimeType applicationJson;
-		contentReader: [ :entity | WAJsonParser parse: entity contents ];
+		contentReader: [ :entity | NeoJSONReader fromString: entity contents ];
 		get

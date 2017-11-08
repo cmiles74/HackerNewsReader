@@ -8,7 +8,7 @@ load: identifier
 		systemPolicy;
 		url: url;
 		accept: ZnMimeType applicationJson;
-		contentReader: [ :entity | WAJsonParser parse: entity contents ];
+		contentReader: [ :entity | NeoJSONReader fromString: entity contents ];
 		get.
 	item := self new: data.
 	^ item
